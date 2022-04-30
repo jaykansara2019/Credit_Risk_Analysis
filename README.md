@@ -58,7 +58,7 @@ For all six models, the results of the credit risk data are as below:
 - Recall Low Risk: 100%
 
 
-## **Easy Ensemble Classifying**
+### **Easy Ensemble Classifying**
 - Accuracy Score: 93%
 - Precision High Risk: 9%
 - Precision Low Risk: 100%
